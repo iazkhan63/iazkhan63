@@ -1,0 +1,99 @@
+figlet -f Puffy "LazyZone"  
+echo " Generate figlet fonts in Easy way with LazyZone By Shabir"
+echo " "
+echo "        Author Information"
+echo " => Name    : iazkhan63 
+echo " => Github  :  https://github.com/iazkhan63/LazyZone.git"
+echo " => YouTube : www.youtube.com/iazkhan M4MASTER"
+echo " => Whatsapp No
+echo "-------------------------------------------------------------- "
+echo " "
+ 
+echo -n "\033[1;93m[*] Enter Your Name : "
+read a
+if [ ! -z $a ]
+then
+ 
+echo " "
+echo -n "\033[1;96m[*] This LazyZone Script By < B4 BALOCH M4 MASTER "
+echo " "
+echo -n "\033[1;92m Fonts Generating.... "
+ 
+echo ""
+echo ""
+echo "Font = 1Row "
+ 
+figlet -f 1Row $a
+ 
+ 
+echo "Font = 3-D "
+ 
+figlet -f 3-D $a
+ 
+ 
+echo "Font = D-ASCII "
+ 
+figlet -f 3D-ASCII $a
+ 
+ 
+echo "Font = 4Max "
+ 
+figlet -f 4Max $a
+ 
+ 
+echo "Font = Acrobatic "
+ 
+figlet -f Acrobatic $a
+ 
+ 
+echo "Font = Alligator2 "
+ 
+figlet -f Alligator2 $a
+ 
+ 
+echo "Font = Alpha "
+ 
+figlet -f Alpha $a
+ 
+ 
+echo "Font = Alphabet "
+ 
+figlet -f Alphabet $a
+ 
+ 
+echo "Font = Arrows "
+ 
+figlet -f Arrows $a
+ 
+ 
+echo "Font = Avatar "
+ 
+figlet -f Avatar $a
+ 
+ 
+echo "Font = B1FF "
+ 
+figlet -f B1FF $a
+ 
+ 
+echo "Font = Banner "
+ 
+figlet -f Banner $a
+ 
+ 
+echo "Font = Banner3 "
+ 
+figlet -f Banner3 $a
+ 
+ 
+echo "Font = Banner4 "
+ 
+figlet -f Banner4 $a
+ 
+ 
+echo "Font = Barbwire "
+ 
+figlet -f Barbwire $a
+ 
+ 
+echo "Font = Basic "
